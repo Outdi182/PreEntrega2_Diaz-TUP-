@@ -1,0 +1,15 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #eef2f3;
+  padding: 20px;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+input {
+  margin: 8px;
+  padding: 10px;
+  width: 220px;
+  font-size: 15px;
+}
